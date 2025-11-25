@@ -3,7 +3,7 @@
 This repository contains a complete MERN-stack PokeDex application created as a technical challenge submission.
 The project includes:
 
-Backend (Node + Express) that proxies PokeAPI
+Backend (Node + Express) that fetches PokeAPI
 
 In-memory caching to reduce API calls
 
@@ -12,22 +12,6 @@ Species and evolution endpoints
 Admin endpoints for cache inspection and clearing
 
 Frontend (React) with search, detailed cards, species flavor text, and evolution chain
-
-1. Features
-
-Search Pokémon by name or ID
-
-Display artwork, stats, moves, sprites
-
-Display species details including flavor text
-
-Display evolution chain
-
-Fast response via backend caching
-
-Dedicated admin endpoints
-
-Fully functional local setup
 
 2. Prerequisites
 
