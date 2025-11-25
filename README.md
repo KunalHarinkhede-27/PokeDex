@@ -38,8 +38,11 @@ Node.js v16 or higher
 npm v8 or higher
 
 3. Run the Backend
+   
 cd pokedex-mern/backend
+
 npm install
+
 node index.js
 
 
@@ -48,8 +51,11 @@ The backend will start at:
 http://localhost:4000/api
 
 4. Run the Frontend
+   
 cd pokedex-mern/frontend
+
 npm install
+
 npm start
 
 
