@@ -10,22 +10,22 @@ It includes:
 ## Quick start (local)
 
 # How to Run Locally
-Prerequisites: 
-Node.js v16+
-npm v8+
+-- Prerequisites: 
+-- Node.js v16+
+-- npm v8+
 
 1. 
-cd pokedex-mern/backend
-npm install
-node index.js
+-- cd pokedex-mern/backend
+-- npm install
+-- node index.js
 
 2. Start frontend:
-cd pokedex-mern/frontend
-npm install
-npm start
+-- cd pokedex-mern/frontend
+-- npm install
+-- npm start
 
-Frontend: http://localhost:3000  
-Backend: http://localhost:4000/api
+# Frontend: http://localhost:3000  
+# Backend: http://localhost:4000/api
 
 
 ## API endpoints (examples)
